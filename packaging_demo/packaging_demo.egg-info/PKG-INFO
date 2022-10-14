@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: packaging-demo
+Version: 0.0.1
+Summary: A package to practice packaging itself
+Home-page: git@github.com:dbergman-sorenson/hello_worlds.git
+Author: Doug
+Author-email: dbergman@sorenson.com
+License: MIT
+License-File: LICENSE.txt
+
+# Packaging demo
+This is a demo of a packaging file.  
+I followed [these instructions](https://www.geeksforgeeks.org/how-to-build-a-python-package/).

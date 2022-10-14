@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+packaging_demo.egg-info/PKG-INFO
+packaging_demo.egg-info/SOURCES.txt
+packaging_demo.egg-info/dependency_links.txt
+packaging_demo.egg-info/top_level.txt
+word_counter/__init__.py
+word_counter/my_counter.py
